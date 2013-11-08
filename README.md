@@ -1,13 +1,13 @@
 T-Time
 ======
 
-T-Time is a work time monitoring system for Java ME devices. Thois includes not only Nokia Series 40 and Series 60 devices, but also modern smartphones and Tablets (Android, Windows Phone, Meego).
+T-Time is a work time monitoring system for Java ME devices. This includes not only Nokia Series 40 and Series 60 devices, but also modern smartphones and Tablets (Android, Windows Phone, Meego).
 
 Copyright
 -------------------------------------------
 
 The T-time (T-aika) Work Time Monitoring System by Enporia Oy. Copyright (C) 2004-2013 Enporia Oy, Finland. All rights reserved.
-Released as open source under the GNU GENERAL PUBLIC LICENSE Version 2 (see LICENSE for details). Please contact petri.savolainen@hiit.fi for other (commercial or less restrictive open source) licencing options.
+Released as open source under the GNU GENERAL PUBLIC LICENSE Version 2 (see LICENSE for details). Please contact petri.savolainen  hiit.fi for other (commercial or less restrictive open source) licencing options.
 
 Building and running in an emulator
 -------------------------------------------
