@@ -1,5 +1,5 @@
 T-Time
-======e
+======
 
 T-Time is a work time monitoring system for Java ME devices. Thois includes not only Nokia Series 40 and Series 60 devices, but also modern smartphones and Tablets (Android, Windows Phone, Meego).
 
