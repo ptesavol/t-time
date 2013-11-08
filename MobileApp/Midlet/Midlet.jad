@@ -1,0 +1,8 @@
+MIDlet-Version: 2.3.4
+MIDlet-Vendor: Enporia Oy
+MIDlet-Jar-URL: http://enporia.com/PuhelinTaika.jar
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-1: t-aika, /taika.png, com.enporia.ttime.Ttime
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Jar-Size: 133752
+MIDlet-Name: t-aika
