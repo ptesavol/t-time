@@ -1,0 +1,5 @@
+#Mon Jan 05 10:19:36 EET 2009
+eclipse.preferences.version=1
+obfuscate_use_project=true
+preverify_config_value=CLDC-1.0
+proguard_use_specified=true
