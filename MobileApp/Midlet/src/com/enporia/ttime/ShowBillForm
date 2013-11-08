@@ -1,0 +1,18 @@
+package com.enporia.ttime;
+
+import com.enporia.util.*;
+import javax.microedition.midlet.*;
+import javax.microedition.lcdui.*;
+import java.util.*;
+
+public class ShowBillForm extends Form
+{
+private static ShowBillForm _instance=null;
+
+public static ShowBillForm instance()
+	   {
+	   
+	   }
+
+
+}
