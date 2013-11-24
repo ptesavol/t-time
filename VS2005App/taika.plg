@@ -1,0 +1,239 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: taika - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x40b /fo"Release/taika.res" /d "NDEBUG" /d "_AFXDLL" "E:\files\cpp\Työt\t-aika\taika_v2\taika.rc"" 
+Creating temporary file "C:\DOCUME~1\KYTT~1\LOCALS~1\Temp\RSP2.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/taika.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"E:\files\cpp\Työt\t-aika\taika_v2\AccountinException.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\AccountingException.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\AccountingProgram.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\BankAccount.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\Base64Coder.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\BdeDatabase.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\BdeException.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\Bill.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\BillLine.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\Buffer.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\ColorListCtrl.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\DbAccount.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\DbCustomer.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\DbDiscountGroup.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\DbProduct.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\DbSqlite.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\DlgAsetukset.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\DlgErittely.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\DlgEtsi.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\DlgImport.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\DlgInfo.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\DlgLaskutus.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\DlgLuoUusiTietokanta.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\DlgPaivita.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\DlgParseInfo.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\DlgSiirraAsiakkaat.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\DlgSiivoaTietokanta.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\DlgSMTP.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\DlgUusiRaportti.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\DlgVarmuuskopioi.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\GenericChildDialog.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\Ipe.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\IpeDlgComboBox.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\IpeDlgComboBox2.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\IpeDlgEdit.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\ListctrlRaportit.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\md5.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\NeuvosProgram.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\Paivays.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\Parse.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\PasseliBill.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\PasseliCurrency.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\PasseliCustomer.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\PasseliFloat.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\PasseliLine.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\PasseliPayingCondition.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\PasseliProduct.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\PasseliProgram.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\PasseliSalesman.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\PasseliTax.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\PpageListat.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\PpageRaportit.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\PpageTyomatkat.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\PriceComponent.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\Properties.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\Smtp.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\StringHelper.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\taika.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\taikaDlg.cpp"
+"E:\files\cpp\Työt\t-aika\taika_v2\Tokenizer.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\KYTT~1\LOCALS~1\Temp\RSP2.tmp" 
+Creating temporary file "C:\DOCUME~1\KYTT~1\LOCALS~1\Temp\RSP3.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/taika.pch" /Yc"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"E:\files\cpp\Työt\t-aika\taika_v2\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\KYTT~1\LOCALS~1\Temp\RSP3.tmp" 
+Creating temporary file "C:\DOCUME~1\KYTT~1\LOCALS~1\Temp\RSP4.tmp" with contents
+[
+sqlite3.lib Idapi32m.lib mpr.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/taika.pdb" /machine:I386 /out:"Release/taika.exe" 
+".\Release\AccountinException.obj"
+".\Release\AccountingException.obj"
+".\Release\AccountingProgram.obj"
+".\Release\BankAccount.obj"
+".\Release\Base64Coder.obj"
+".\Release\BdeDatabase.obj"
+".\Release\BdeException.obj"
+".\Release\Bill.obj"
+".\Release\BillLine.obj"
+".\Release\Buffer.obj"
+".\Release\ColorListCtrl.obj"
+".\Release\DbAccount.obj"
+".\Release\DbCustomer.obj"
+".\Release\DbDiscountGroup.obj"
+".\Release\DbProduct.obj"
+".\Release\DbSqlite.obj"
+".\Release\DlgAsetukset.obj"
+".\Release\DlgErittely.obj"
+".\Release\DlgEtsi.obj"
+".\Release\DlgImport.obj"
+".\Release\DlgInfo.obj"
+".\Release\DlgLaskutus.obj"
+".\Release\DlgLuoUusiTietokanta.obj"
+".\Release\DlgPaivita.obj"
+".\Release\DlgParseInfo.obj"
+".\Release\DlgSiirraAsiakkaat.obj"
+".\Release\DlgSiivoaTietokanta.obj"
+".\Release\DlgSMTP.obj"
+".\Release\DlgUusiRaportti.obj"
+".\Release\DlgVarmuuskopioi.obj"
+".\Release\GenericChildDialog.obj"
+".\Release\Ipe.obj"
+".\Release\IpeDlgComboBox.obj"
+".\Release\IpeDlgComboBox2.obj"
+".\Release\IpeDlgEdit.obj"
+".\Release\ListctrlRaportit.obj"
+".\Release\md5.obj"
+".\Release\NeuvosProgram.obj"
+".\Release\Paivays.obj"
+".\Release\Parse.obj"
+".\Release\PasseliBill.obj"
+".\Release\PasseliCurrency.obj"
+".\Release\PasseliCustomer.obj"
+".\Release\PasseliFloat.obj"
+".\Release\PasseliLine.obj"
+".\Release\PasseliPayingCondition.obj"
+".\Release\PasseliProduct.obj"
+".\Release\PasseliProgram.obj"
+".\Release\PasseliSalesman.obj"
+".\Release\PasseliTax.obj"
+".\Release\PpageListat.obj"
+".\Release\PpageRaportit.obj"
+".\Release\PpageTyomatkat.obj"
+".\Release\PriceComponent.obj"
+".\Release\Properties.obj"
+".\Release\Smtp.obj"
+".\Release\StdAfx.obj"
+".\Release\StringHelper.obj"
+".\Release\taika.obj"
+".\Release\taikaDlg.obj"
+".\Release\Tokenizer.obj"
+".\Release\taika.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\KYTT~1\LOCALS~1\Temp\RSP4.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+AccountinException.cpp
+AccountingException.cpp
+AccountingProgram.cpp
+BankAccount.cpp
+E:\files\cpp\Työt\t-aika\taika_v2\idapi.h(1315) : warning C4200: nonstandard extension used : zero-sized array in struct/union
+Base64Coder.cpp
+BdeDatabase.cpp
+E:\files\cpp\Työt\t-aika\taika_v2\idapi.h(1315) : warning C4200: nonstandard extension used : zero-sized array in struct/union
+BdeException.cpp
+E:\files\cpp\Työt\t-aika\taika_v2\idapi.h(1315) : warning C4200: nonstandard extension used : zero-sized array in struct/union
+Bill.cpp
+E:\files\cpp\Työt\t-aika\taika_v2\idapi.h(1315) : warning C4200: nonstandard extension used : zero-sized array in struct/union
+BillLine.cpp
+E:\files\cpp\Työt\t-aika\taika_v2\idapi.h(1315) : warning C4200: nonstandard extension used : zero-sized array in struct/union
+Buffer.cpp
+ColorListCtrl.cpp
+DbAccount.cpp
+E:\files\cpp\Työt\t-aika\taika_v2\idapi.h(1315) : warning C4200: nonstandard extension used : zero-sized array in struct/union
+DbCustomer.cpp
+E:\files\cpp\Työt\t-aika\taika_v2\idapi.h(1315) : warning C4200: nonstandard extension used : zero-sized array in struct/union
+DbDiscountGroup.cpp
+E:\files\cpp\Työt\t-aika\taika_v2\idapi.h(1315) : warning C4200: nonstandard extension used : zero-sized array in struct/union
+DbProduct.cpp
+E:\files\cpp\Työt\t-aika\taika_v2\idapi.h(1315) : warning C4200: nonstandard extension used : zero-sized array in struct/union
+DbSqlite.cpp
+DlgAsetukset.cpp
+DlgErittely.cpp
+DlgEtsi.cpp
+DlgImport.cpp
+E:\files\cpp\Työt\t-aika\taika_v2\idapi.h(1315) : warning C4200: nonstandard extension used : zero-sized array in struct/union
+Generating Code...
+Compiling...
+DlgInfo.cpp
+DlgLaskutus.cpp
+E:\files\cpp\Työt\t-aika\taika_v2\idapi.h(1315) : warning C4200: nonstandard extension used : zero-sized array in struct/union
+DlgLuoUusiTietokanta.cpp
+DlgPaivita.cpp
+DlgParseInfo.cpp
+DlgSiirraAsiakkaat.cpp
+DlgSiivoaTietokanta.cpp
+DlgSMTP.cpp
+DlgUusiRaportti.cpp
+DlgVarmuuskopioi.cpp
+GenericChildDialog.cpp
+Ipe.cpp
+IpeDlgComboBox.cpp
+IpeDlgComboBox2.cpp
+IpeDlgEdit.cpp
+ListctrlRaportit.cpp
+md5.cpp
+NeuvosProgram.cpp
+E:\files\cpp\Työt\t-aika\taika_v2\idapi.h(1315) : warning C4200: nonstandard extension used : zero-sized array in struct/union
+E:\files\cpp\Työt\t-aika\taika_v2\NeuvosProgram.cpp(197) : warning C4101: 'e' : unreferenced local variable
+Paivays.cpp
+Parse.cpp
+Generating Code...
+Compiling...
+PasseliBill.cpp
+PasseliCurrency.cpp
+PasseliCustomer.cpp
+PasseliFloat.cpp
+PasseliLine.cpp
+PasseliPayingCondition.cpp
+PasseliProduct.cpp
+PasseliProgram.cpp
+PasseliSalesman.cpp
+PasseliTax.cpp
+PpageListat.cpp
+PpageRaportit.cpp
+PpageTyomatkat.cpp
+PriceComponent.cpp
+Properties.cpp
+Smtp.cpp
+StringHelper.cpp
+taika.cpp
+taikaDlg.cpp
+Tokenizer.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+taika.exe - 0 error(s), 13 warning(s)
+</pre>
+</body>
+</html>
